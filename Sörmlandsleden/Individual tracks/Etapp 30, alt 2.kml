@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Etapp 30, alt 2.kml</name>
+	<Style id="red">
+		<LineStyle>
+			<color>c81400ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Etapp 30, alt 2</name>
+		<styleUrl>#red</styleUrl>
+		<LineString>
+			<extrude>1</extrude>
+			<tessellate>1</tessellate>
+			<coordinates>
+				16.3230389,58.7910373,0 16.3233104,58.7908513,0 16.3236215,58.7906345,0 16.3240453,58.7904538,0 16.32463,58.7901564,0 16.3250646,58.7899535,0 16.3255366,58.7897227,0 16.3260945,58.7894225,0 16.3265988,58.7891723,0 16.3271406,58.7889388,0 16.3272211,58.78891109999999,0 16.3273702,58.788839,0 16.3277703,58.78887689999999,0 16.3285294,58.7889812,0 16.3288191,58.789116,0 16.32909,58.7893259,0 16.3292107,58.7896122,0 16.3293475,58.789836,0 16.3295138,58.7900194,0 16.3294762,58.7901473,0 16.329605,58.790263,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
